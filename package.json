@@ -1,0 +1,21 @@
+{
+  "name": "activity-file-parser",
+  "version": "1.0.0",
+  "description": "Universal parser for activity file (e.g. .fit, .tcx, .gpx)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parser",
+    "fit",
+    "tcx",
+    "gpx"
+  ],
+  "author": "stefbrands",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  }
+}
